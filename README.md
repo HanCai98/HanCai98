@@ -33,11 +33,9 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight&hide_border=true)
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight" />
-</p>
+<br/>
 
+## 🔥 GitHub Activity Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=dracula&hide_border=true)
 
