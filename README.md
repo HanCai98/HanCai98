@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-Hi, I'm Han, a passionate self-taught frontEnd web developer, interested in information visualization and HCI.
+My name is Han Cai, I am currently a master student at Brown University majored in computer science. 
 <br/>
 
-- 🔭 I’m currently working on [IDEAS Laboratory](https://github.com/Ideas-Laboratory)
-- 👯 I’m looking to collaborate on [Qwerty Learner](https://github.com/Kaiyiwing/qwerty-learner)
-- 📝 I'm looking for a job about front-end developement
-- 📫 How to reach me: me@kaiyi.cool
-- 📲 WeChat: `Kaiyi42`
+- 🔭 I’m currently working at [Seismic](https://github.com/seismic)
+- 📝 I'm looking for a position for Software Enginner starting from June, 2023
+- 📫 How to reach me: mikecaihan@outlook.com
 
 <br/>
 
