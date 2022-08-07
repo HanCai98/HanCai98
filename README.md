@@ -38,8 +38,8 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1928](https://github.com/anuraghazra/github-readme-stats/issues/1928) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#61032](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/61032) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🎉 Merged PR [#1](https://github.com/HanCai98/HanCai98/pull/1) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+2. 🗣 Commented on [#1](https://github.com/HanCai98/HanCai98/issues/1) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
 <!--END_SECTION:activity-->
 
 <br/>
