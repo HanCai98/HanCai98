@@ -35,6 +35,12 @@ My name is Han Cai, I am a master student at Brown University majored in compute
 
 <br/>
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<br/>
+
 ## 🔥 GitHub Activity Graph
 
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=dracula&hide_border=true)](https://github.com/HanCai98)
