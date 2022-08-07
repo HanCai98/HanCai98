@@ -38,9 +38,6 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HanCai98/HanCai98/pull/1) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-2. 🗣 Commented on [#1](https://github.com/HanCai98/HanCai98/issues/1) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-<!--END_SECTION:activity-->
 
 <br/>
 
