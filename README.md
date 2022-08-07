@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://github.com/HanCai98/HanCai98/blob/main/wave.gif" width="30px" height="30px" />
 
-My name is Han Cai, I am currently a master student at Brown University majored in computer science. 
+My name is Han Cai, I am a master student at Brown University majored in computer science. 
 
 - 👨🏻‍💻 I’m currently working at [Seismic](https://github.com/seismic) as a Software Engineer Intern
 - 🔭 I'm looking for a position for Software Enginner starting from June, 2023
