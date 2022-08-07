@@ -10,7 +10,7 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 ## &#x1f4c8; GitHub Stats
 
-[![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/HanCai98)
 
 <br/>
 
@@ -29,5 +29,5 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact)](https://github.com/HanCai98)
 
