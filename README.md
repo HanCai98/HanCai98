@@ -23,19 +23,19 @@ My name is Han Cai, I am a master student at Brown University majored in compute
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact)](https://github.com/HanCai98)
 
 <br/>
 
 ## &#x1f4c8; GitHub Stats
 
-![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
+[![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
 
 <br/>
 
 ## 🔥 GitHub Activity Graph
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=dracula&hide_border=true)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=dracula&hide_border=true)](https://github.com/HanCai98)
 
