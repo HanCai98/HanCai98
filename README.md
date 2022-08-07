@@ -38,9 +38,6 @@ My name is Han Cai, I am a master student at Brown University majored in compute
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1928](https://github.com/anuraghazra/github-readme-stats/issues/1928) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🗣 Commented on [#61032](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/61032) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-<!--END_SECTION:activity-->
 
 <br/>
 
