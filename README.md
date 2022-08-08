@@ -23,7 +23,7 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact)](https://github.com/HanCai98)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/HanCai98)
 
 <br/>
 
@@ -49,5 +49,5 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 ## 🔥 GitHub Activity Graph
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=dracula&hide_border=true)](https://github.com/HanCai98)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=material-palenight&hide_border=true)](https://github.com/HanCai98)
 
