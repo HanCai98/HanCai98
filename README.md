@@ -23,13 +23,13 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HanCai98&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/HanCai98)
+[![Top Languages](https://github-readme-stats-hancai98.vercel.app/api/top-langs/?username=HanCai98&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/HanCai98)
 
 <br/>
 
 ## &#x1f4c8; GitHub Stats
 
-[![Han's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
+[![Han's GitHub Stats](https://github-readme-stats-hancai98.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
 
