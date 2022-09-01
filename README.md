@@ -43,7 +43,6 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 <br/>
 
