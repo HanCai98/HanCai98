@@ -42,16 +42,16 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
-2. 💪 Opened PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
-3. 🎉 Merged PR [#3](https://github.com/HanCai98/HanCai98/pull/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-4. 🗣 Commented on [#3](https://github.com/HanCai98/HanCai98/issues/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-5. 💪 Opened PR [#3](https://github.com/HanCai98/HanCai98/pull/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-6. ❗️ Opened issue [#1929](https://github.com/anuraghazra/github-readme-stats/issues/1929) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-7. ❗️ Opened issue [#83](https://github.com/jamesgeorge007/github-activity-readme/issues/83) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
-8. 🎉 Merged PR [#2](https://github.com/HanCai98/HanCai98/pull/2) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-9. 💪 Opened PR [#2](https://github.com/HanCai98/HanCai98/pull/2) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
-10. 🎉 Merged PR [#1](https://github.com/HanCai98/HanCai98/pull/1) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+1. ❗️ Opened issue [#667](https://github.com/authts/oidc-client-ts/issues/667) in [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts)
+2. 🎉 Merged PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
+3. 💪 Opened PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
+4. 🎉 Merged PR [#3](https://github.com/HanCai98/HanCai98/pull/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+5. 🗣 Commented on [#3](https://github.com/HanCai98/HanCai98/issues/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+6. 💪 Opened PR [#3](https://github.com/HanCai98/HanCai98/pull/3) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+7. ❗️ Opened issue [#1929](https://github.com/anuraghazra/github-readme-stats/issues/1929) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+8. ❗️ Opened issue [#83](https://github.com/jamesgeorge007/github-activity-readme/issues/83) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+9. 🎉 Merged PR [#2](https://github.com/HanCai98/HanCai98/pull/2) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
+10. 💪 Opened PR [#2](https://github.com/HanCai98/HanCai98/pull/2) in [HanCai98/HanCai98](https://github.com/HanCai98/HanCai98)
 <!--END_SECTION:activity-->
 
 
