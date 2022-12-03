@@ -47,11 +47,3 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 4. 🎉 Merged PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
 5. 💪 Opened PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
 <!--END_SECTION:activity-->
-
-
-<br/>
-
-## 🔥 GitHub Activity Graph
-
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HanCai98&theme=material-palenight&hide_border=true)](https://github.com/HanCai98)
-
