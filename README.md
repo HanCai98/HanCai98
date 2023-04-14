@@ -42,7 +42,7 @@ My name is Han Cai, I am currently a master student at Brown University majored 
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#89](https://github.com/jamesgeorge007/github-activity-readme/issues/89) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#89](https://github.com/jamesgeorge007/github-activity-readme/issues/89) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 2. ❗️ Opened issue [#89](https://github.com/jamesgeorge007/github-activity-readme/issues/89) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. ❗️ Opened issue [#667](https://github.com/authts/oidc-client-ts/issues/667) in [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts)
 4. 🎉 Merged PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
