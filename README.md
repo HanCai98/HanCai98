@@ -2,7 +2,6 @@
 
 My name is Han Cai, I am currently a master student at Brown University majored in computer science. 
 
-- 👨🏻‍💻 I've worked at [Seismic](https://github.com/seismic) as a Software Engineer Intern
 - 🔥 I'm a Software Engineer at [Seismic](https://github.com/seismic)
 - 📧 How to reach me: mikecaihan@outlook.com
 
