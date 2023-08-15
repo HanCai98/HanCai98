@@ -1,8 +1,8 @@
 ## Hello, folks! <img src="https://github.com/HanCai98/HanCai98/blob/main/wave.gif" width="30px" height="30px" />
 
-My name is Han Cai, I am currently a master student at Brown University majored in computer science. 
+My name is Han Cai, I am currently a Software Engineer at [Seismic](https://github.com/seismic).
 
-- 🔥 I'm a Software Engineer at [Seismic](https://github.com/seismic)
+- 🔥 I was a master student at Brown University majored in computer science.
 - 📧 How to reach me: mikecaihan@outlook.com
 
 <br/>
