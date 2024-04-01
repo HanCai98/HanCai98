@@ -1,6 +1,6 @@
 ## Hello, folks! <img src="https://github.com/HanCai98/HanCai98/blob/main/wave.gif" width="30px" height="30px" />
 
-My name is Han, I was a Software Engineer at [Seismic](https://github.com/seismic).
+My name is Han.
 
 - 🔥 I was a master student at Brown University majored in computer science.
 - 📧 How to reach me: mike.hancai@gmail.com
