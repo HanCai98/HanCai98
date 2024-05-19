@@ -41,7 +41,7 @@ My name is Han.
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#89](https://github.com/jamesgeorge007/github-activity-readme/issues/89) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 💪 Opened PR [#2450](https://github.com/youngyangyang04/leetcode-master/pull/2450) in [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 2. ❗️ Opened issue [#89](https://github.com/jamesgeorge007/github-activity-readme/issues/89) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 3. ❗️ Opened issue [#667](https://github.com/authts/oidc-client-ts/issues/667) in [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts)
 4. 🎉 Merged PR [#1](https://github.com/HanCai98/github-readme-stats/pull/1) in [HanCai98/github-readme-stats](https://github.com/HanCai98/github-readme-stats)
