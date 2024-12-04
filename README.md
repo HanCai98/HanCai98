@@ -34,8 +34,6 @@ My name is Han.
 
 [![Han's GitHub Stats](https://github-readme-stats-hancai98.vercel.app/api?username=HanCai98&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HanCai98&theme=tokyonight&hide_border=true)](https://github.com/HanCai98)
-
 <br/>
 
 ## :zap: Recent Activity
